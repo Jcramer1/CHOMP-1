@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
 
+@SuppressWarnings("serial")
 public class GuestHub extends JFrame {
 
   private JPanel panel1 = new JPanel();
